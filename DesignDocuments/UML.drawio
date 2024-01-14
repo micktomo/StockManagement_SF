@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="P31lW52hoCTLFixNqPdC" name="Page-1">
+        <mxGraphModel dx="869" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;株主&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;ul&gt;&lt;li&gt;性&lt;/li&gt;&lt;li&gt;名&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="40" width="140" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;株&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;ul&gt;&lt;li&gt;銘柄コード&lt;/li&gt;&lt;li&gt;銘柄名&lt;/li&gt;&lt;li&gt;業種&lt;/li&gt;&lt;li&gt;株種類&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="40" width="140" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;株運用情報&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;ul&gt;&lt;li&gt;保有者&lt;/li&gt;&lt;li&gt;保有数&lt;/li&gt;&lt;li&gt;購入価格&lt;/li&gt;&lt;li&gt;評価損益&lt;/li&gt;&lt;li&gt;銘柄コード&lt;/li&gt;&lt;li&gt;銘柄名&lt;/li&gt;&lt;li&gt;取得日&lt;/li&gt;&lt;li&gt;株価（取得時）&lt;/li&gt;&lt;li&gt;株価（現在）&lt;/li&gt;&lt;li&gt;業種&lt;/li&gt;&lt;li&gt;株種類&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="40" width="140" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.014;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4" target="3">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="390" y="100" as="sourcePoint"/>
+                        <mxPoint x="710" y="50" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="470" y="80" as="sourcePoint"/>
+                        <mxPoint x="320" y="70" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
